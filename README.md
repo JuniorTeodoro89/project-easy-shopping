@@ -14,6 +14,7 @@
 <h2>Resultado final:</h2>
 <img width="auto" src="https://github.com/user-attachments/assets/7d92f202-3125-4c52-9569-d0a08fdc8e4c" alt="Imagem do resultado do projeto"/>
 <br><br>
+<a href="https://juniorteodoro89.github.io/project-easy-shopping/" target="_blank">Acesse a página!</a>
 
 <hr style="border: 1px solid black; width: 50%; margin: auto;">
 
